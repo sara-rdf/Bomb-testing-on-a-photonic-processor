@@ -18,7 +18,7 @@ numpy 1.26.4
 
 pandas 2.3.3
 
-References::
+References:
 
 \[1] 
 
