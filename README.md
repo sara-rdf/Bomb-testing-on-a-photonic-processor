@@ -16,5 +16,5 @@ pandas 2.3.3
 
 References:<br />
 [1] <br />
-[2]A. Elitzur and L. Vaidman, Quantum mechanical interaction-free measurements. Found Phys 23, 987–997 (1993), doi:10.1007/BF00736012.<br />
+[2] A. Elitzur and L. Vaidman, Quantum mechanical interaction-free measurements. Found Phys 23, 987–997 (1993), doi:10.1007/BF00736012.<br />
 [3] N. Maring et al., A versatile single-photon-based quantum computing platform. Nature Photonics 18, 603–609 (2024).
