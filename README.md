@@ -20,7 +20,7 @@ pandas 2.3.3
 
 References:
 
-\[1] 
+\[1] S. Franco, A. Camillini and E. F. Galvao, Interaction-free measurement of multiple objects using a universal integrated photonic processor (2026) 	arXiv:2604.04691 \[quant-ph]
 
 \[2] A. Elitzur and L. Vaidman, Quantum mechanical interaction-free measurements. Found Phys 23, 987–997 (1993), doi:10.1007/BF00736012.
 
